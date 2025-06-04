@@ -65,6 +65,7 @@ Before setting up KarunaAi, you'll need:
    # Vapi.ai Configuration
    VAPI_API_KEY=your_vapi_api_key
    VAPI_PHONE_NUMBER=your_vapi_phone_number
+   VAPI_ASSISTANT_ID=your_vapi_assistant_id
 
    # Email Configuration
    EMAIL_SENDER=your_gmail_address
