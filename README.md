@@ -1,8 +1,6 @@
 # KarunaAi 🤖✨🪷
 
-<div align="center">
-  <img src="assets/1.png" alt="KarunaAI Logo" width="200"/>
-</div>
+<img src="assets/1.png" alt="KarunaAI Logo" width="200"/>
 
 KarunaAi is an AI-powered voice companion designed to provide compassionate check-ins and support for elderly care. The system uses natural language processing and voice technology to engage in meaningful conversations, monitor well-being, and provide timely updates to caregivers.
 
