@@ -18,6 +18,9 @@ KarunaAi/
 │   ├── fetch_call_logs.py      # Call log retrieval
 │   ├── summarize_call_logs.py  # Conversation summarization
 │   ├── send_summaries_email.py # Caregiver email updates
+├── assets/                     # Project media and static files
+│   ├── 1.png                  # Project logo
+│   └── README.md              # Assets documentation
 ├── config/
 │   └── users.json             # User and caregiver configurations
 ├── tests/                     # Test suite
